@@ -30,7 +30,7 @@ def add_bg_from_url():
 add_bg_from_url()
 
 # Streamlit App
-st.title("📰 US Based Fake News Detector")
+st.title("📰 IntegriNews - Fake News Detector")
 st.write("Enter a news headline or article to check if it's Fake or Real.")
 
 # Sidebar for Additional Information
